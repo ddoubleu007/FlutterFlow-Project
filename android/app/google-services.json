@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "86716902703",
+    "project_id": "mastech-mining-company-app",
+    "storage_bucket": "mastech-mining-company-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86716902703:android:ddfe5e1f080f74167805da",
+        "android_client_info": {
+          "package_name": "com.mycompany.attempt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86716902703-kvflpthdv1gb5ud51dtaghmk45g5mkel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.attempt2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "86716902703-4442cuallvqhdn7fqvengtuk2r9mmt8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwB78Dixwuj1w5wYf7pXglYoFcUxrRf1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86716902703-4442cuallvqhdn7fqvengtuk2r9mmt8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86716902703-4nhfc13sejkcqvccg62suv50m8r9748u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.attempt2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86716902703:android:dfcd6387725d82417805da",
+        "android_client_info": {
+          "package_name": "com.mycompany.mastechminingcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86716902703-3s91en41lhsoiik4k83smcur49at2i2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.mastechminingcompany",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "86716902703-4442cuallvqhdn7fqvengtuk2r9mmt8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwB78Dixwuj1w5wYf7pXglYoFcUxrRf1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86716902703-4442cuallvqhdn7fqvengtuk2r9mmt8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86716902703-4nhfc13sejkcqvccg62suv50m8r9748u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.attempt2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
